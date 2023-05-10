@@ -14,4 +14,4 @@
 - `pkg install git`
 - ` git clone https://github.com/lizyangelxdark/Smsblasting`
 - `cd Smsblasting`
-- `python sms.py`
+- `python enough.py`
