@@ -10,11 +10,8 @@
   ## Deploy On Termux 💜
 
 - `sudo apt update && apt upgrade -y`
-- `pkg install git`
 - `pkg install python`
-- `https://github.com/lizyangelxdark/Smsblasting`
+- `pkg install git`
+- ` git clone https://github.com/lizyangelxdark/Smsblasting`
 - `cd Smsblasting`
-- `npm i -g npm`
-- `git clone https://github.com/lizyangelxdark/tgvcprobot` # Clone your repo.
-- `cd CBMusicBot`
-- `pip3 install -U -r requirements.txt`
+- `python sms.py`
