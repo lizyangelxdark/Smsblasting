@@ -16,7 +16,7 @@
   
   ## Deploy On Termux 💜
 
-- `sudo apt update && apt upgrade -y`
+- `sudo apt update && apt upgrade`
 - `pkg install python`
 - `pkg install git`
 - ` git clone https://github.com/lizyangelxdark/Smsblasting` 
